@@ -1,0 +1,6 @@
+[submodule "libs/xXx"]
+	path = libs/xXx
+	url = git@github.com:XMrVertigoX/xXx_CPP.git
+[submodule "libs/XMC_Peripheral_Library"]
+	path = libs/XMC_Peripheral_Library
+	url = git@github.com:XMrVertigoX/XMC_Peripheral_Library.git
