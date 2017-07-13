@@ -1,1 +1,2 @@
 halt
+waithalt 100

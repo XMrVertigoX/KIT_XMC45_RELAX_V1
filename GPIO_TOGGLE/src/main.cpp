@@ -6,7 +6,7 @@
 #define LED1 P1_1
 #define LED2 P1_0
 
-void SysTick_Handler(void) {
+extern "C" void SysTick_Handler(void) {
     static uint32_t ticks = 0;
 
     ticks++;
@@ -18,7 +18,7 @@ void SysTick_Handler(void) {
     }
 }
 
-int main(void) {
+int main() {
     XMC_GPIO_CONFIG_t config;
 
     config.mode            = XMC_GPIO_MODE_OUTPUT_PUSH_PULL;
