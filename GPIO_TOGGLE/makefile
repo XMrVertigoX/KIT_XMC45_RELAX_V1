@@ -1,6 +1,6 @@
 # ----- Configuration ---------------------------------------------------------
 
-PROJECT_NAME = RTC_ALARM
+PROJECT_NAME = GPIO_TOGGLE
 
 # ----- Directories and files -------------------------------------------------
 
