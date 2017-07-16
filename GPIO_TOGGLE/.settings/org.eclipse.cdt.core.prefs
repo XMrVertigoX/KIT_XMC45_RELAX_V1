@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+environment/project/ilg.gnuarmeclipse.managedbuild.cross.toolchain.base.1544282798/SDK_ROOT/delimiter=\:
+environment/project/ilg.gnuarmeclipse.managedbuild.cross.toolchain.base.1544282798/SDK_ROOT/operation=append
+environment/project/ilg.gnuarmeclipse.managedbuild.cross.toolchain.base.1544282798/SDK_ROOT/value=${ProjDirPath}/../libs/XMC_Peripheral_Library
+environment/project/ilg.gnuarmeclipse.managedbuild.cross.toolchain.base.1544282798/append=true
+environment/project/ilg.gnuarmeclipse.managedbuild.cross.toolchain.base.1544282798/appendContributed=true
